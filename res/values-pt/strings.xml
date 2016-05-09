@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text -->
+    <string name="app_name">PoliteDND</string>
+    <string name="start">Início</string>
+    <string name="end">Fim</string>
+    <string name="placeholder">00:00 até desabilitado</string>
+    <string name="placeholder1">Seg,Ter,Qua,Qui,Sex,Sab,Dom</string>
+    <string name="airplaneError">Erro: não é possível habilitar Modo Avião</string>
+    <!-- Buttons -->
+    <string name="mo">Seg</string>
+    <string name="tu">Ter</string>
+    <string name="we">Qua</string>
+    <string name="th">Qui</string>
+    <string name="fr">Sex</string>
+    <string name="sa">Sab</string>
+    <string name="su">Dom</string>
+    <string name="set">Set</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <!-- Captions -->
+    <string name="addScheduleCaption">Adicionar agendamento</string>
+    <string name="neverCaption">Nunca</string>
+    <string name="close">Fechar</string>
+    <string name="delete">Remover agendamento</string>
+    <string name="disabled">desabilitado</string>
+    <string name="noRepeat">Sem repetição</string>
+    <string name="weekends">Fins de semana</string>
+    <string name="daily">Diariamente</string>
+    <string name="started">Iniciado</string>
+    <string name="stopped">Finalizado</string>
+    <string name="until">até</string>
+    <string name="enabled_btn">Habilitado</string>
+    <string name="disabled_btn">Desabilitado</string>
+    <!-- Titles -->
+    <string name="helpTitle">Ajuda</string>
+    <string name="aboutTitle">Sobre</string>
+    <string name="moreTitle">Mais Apps</string>
+    <string name="new_schedule">Novo Agendamento</string>
+    <string name="edit_schedule">Editar Agendamento</string>
+    <string name="repeatTitle">Repetição</string>
+    <string-array name="timeRange">
+        <item>Início</item>
+        <item>Fim</item>
+    </string-array>
+</resources>

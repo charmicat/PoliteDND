@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/ics_blue_bright" android:state_pressed="true"/> <!-- pressed -->
+    <item android:drawable="@color/ics_blue_light" android:state_focused="true"/> <!-- focused -->
+    <item android:drawable="@color/ics_blue_dark" android:state_checked="true"/> <!-- enabled -->
+    <item android:drawable="@color/ics_blue_bright" android:state_checked="false"/> <!-- enabled -->
+    <item android:drawable="@color/ics_blue_bright"/> <!-- default -->
+
+
+    <!--
+    <item android:drawable="@color/dark_green" android:state_pressed="true"/> 
+    <item android:drawable="@color/medium_green" android:state_focused="true"/>
+    <item android:drawable="@color/light_green" android:state_checked="true"/> <
+    <item android:drawable="@color/medium_green" android:state_checked="false"/> 
+    <item android:drawable="@color/light_green"/>
+    -->
+
+</selector>

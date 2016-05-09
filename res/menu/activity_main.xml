@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/action_help"
+        android:showAsAction="ifRoom"
+        android:title="@string/helpTitle">
+    </item>
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/action_about"
+        android:showAsAction="ifRoom"
+        android:title="@string/aboutTitle">
+    </item>
+    <item
+        android:id="@+id/more_apps"
+        android:icon="@android:drawable/star_off"
+        android:showAsAction="ifRoom"
+        android:title="@string/moreTitle">
+    </item>
+
+</menu>

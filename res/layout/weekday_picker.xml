@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    <ToggleButton
+        android:id="@+id/mo"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:background="@color/button_bg"
+        android:minWidth="55dp"
+        android:textOff="@string/mo"
+        android:textOn="@string/mo" />
+    <ToggleButton
+        android:id="@+id/tu"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:background="@color/button_bg"
+        android:minWidth="55dp"
+        android:textOff="@string/tu"
+        android:textOn="@string/tu" />
+    <ToggleButton
+        android:id="@+id/we"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:background="@color/button_bg"
+        android:minWidth="55dp"
+        android:textOff="@string/we"
+        android:textOn="@string/we" />
+    <ToggleButton
+        android:id="@+id/th"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:background="@color/button_bg"
+        android:minWidth="55dp"
+        android:textOff="@string/th"
+        android:textOn="@string/th" />
+    <ToggleButton
+        android:id="@+id/fr"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:background="@color/button_bg"
+        android:minWidth="55dp"
+        android:textOff="@string/fr"
+        android:textOn="@string/fr" />
+    <ToggleButton
+        android:id="@+id/sa"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:background="@color/button_bg"
+        android:minWidth="55dp"
+        android:textOff="@string/sa"
+        android:textOn="@string/sa" />
+    <ToggleButton
+        android:id="@+id/su"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:background="@color/button_bg"
+        android:minWidth="55dp"
+        android:textOff="@string/su"
+        android:textOn="@string/su" />
+</LinearLayout>

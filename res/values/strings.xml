@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text -->
+    <string name="app_name">PoliteDND</string>
+    <string name="placeholder">00:00 until disabled</string>
+    <string name="placeholder1">Mo,Tu,We,Th,Fr,Sa,Su</string>
+    <string name="start">Start Time</string>
+    <string name="end">End Time</string>
+    <string name="airplaneError">Error: can\'t enable Airplane Mode</string>
+    <!-- Buttons -->
+    <string name="mo">Mo</string>
+    <string name="tu">Tu</string>
+    <string name="we">We</string>
+    <string name="th">Th</string>
+    <string name="fr">Fr</string>
+    <string name="sa">Sa</string>
+    <string name="su">Su</string>
+    <string name="set">Set</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <!-- Captions -->
+    <string name="addScheduleCaption">Add a new schedule</string>
+    <string name="neverCaption">Never</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete schedule</string>
+    <string name="disabled">disabled</string>
+    <string name="weekends">Weekends</string>
+    <string name="daily">Daily</string>
+    <string name="noRepeat">No repeat</string>
+    <string name="started">Started</string>
+    <string name="stopped">Stopped</string>
+    <string name="until">until</string>
+    <string name="enabled_btn">Enabled</string>
+    <string name="disabled_btn">Disabled</string>
+    <!-- Titles -->
+    <string name="helpTitle">Help</string>
+    <string name="aboutTitle">About</string>
+    <string name="moreTitle">More Apps</string>
+    <string name="new_schedule">New Schedule</string>
+    <string name="edit_schedule">Edit Schedule</string>
+    <string name="repeatTitle">Repeat</string>
+
+    <string-array name="timeRange">
+        <item>Start Time</item>
+        <item>End Time</item>
+    </string-array>
+
+</resources>
